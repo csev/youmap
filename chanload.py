@@ -6,17 +6,13 @@ import time
 import ssl
 import sys
 
-api_key = False
-# If you have a Google Places API key, enter it here
-# api_key = 'AIzaSy___IDByT70'
+# put api key and playlist id  in config.py - see config-dist.py
+import config
 
-api_key = 'AIzaSyAloitai2JJNpWcLpMW3Pa5aY8tM1vbdHw'
+api_key = config.keys()['api_key']
+playlistId = config.keys()['playlistId']
 
-if api_key is False:
-    print('Fail')
-    quit()
-else :
-    serviceurl = 'https://www.googleapis.com/youtube/v3/playlistItems?'
+serviceurl = 'https://www.googleapis.com/youtube/v3/playlistItems?'
 
 # Additional detail for urllib
 # http.client.HTTPConnection.debuglevel = 1
@@ -26,26 +22,16 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-retrieved = False
-try:
-    with open('channel.json') as f:
-        vids = json.loads(f.read())
-        f.close()
-        print('Loaded video list from file')
-        retrieved = True
-except OSError:
-    vids = list()
-
 parms = dict()
 parms['part'] = 'id,snippet'
 parms['maxResults'] = '50'
-parms['playlistId'] = 'PLlRFEj9H3Oj4qyq0OLZ76cMtUUgqUNtmz'
+parms['playlistId'] = playlistId
 parms['key'] = api_key
 
+vids = list()
 count = 0
 nextPageToken = None
 while True:
-    if ( retrieved ) : break
     if nextPageToken is not None: 
         parms['pageToken'] = nextPageToken
 
@@ -71,13 +57,11 @@ while True:
         nextPageToken = js['nextPageToken']
         x = input(nextPageToken+' Continue?')
         continue
-    retrieved = True
     break
 
-if retrieved: 
-    with open('channel.json', 'w') as outfile:
-        json.dump(vids, outfile, indent=4)
-        outfile.close()
+with open('channel.json', 'w') as outfile:
+    json.dump(vids, outfile, indent=4)
+    outfile.close()
 
 print('Video count:',len(vids))
 
@@ -91,7 +75,13 @@ serviceurl = 'https://content.googleapis.com/youtube/v3/videos?'
 
 newvids = list()
 for video in vids: 
-    idval = video['snippet']['resourceId']['videoId']
+    try:
+        idval = video['snippet']['resourceId']['videoId']
+    except:
+        print('Unable to find video id')
+        print(video)
+        quit()
+
     print('Idval',idval)
     if 'recordingDetails' in video : 
         print('recordingDetails already retrieved');
@@ -119,3 +109,7 @@ for video in vids:
 with open('channel.json', 'w') as outfile:
     json.dump(newvids, outfile, indent=4)
     outfile.close()
+
+print('')
+print('Now run:')
+print('python3 chandump.py')

@@ -1,7 +1,7 @@
 [
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/MU2o7yyVIBL93xVjeR3EpVHqgtQ\"",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Rcx37Zjh8_E8FJZhNXUQ8aetg_E\"",
         "id": "l3iDVYEJwyQ",
         "snippet": {
             "publishedAt": "2017-05-27T15:18:12.000Z",
@@ -46,7 +46,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "6",
+            "viewCount": "12",
             "likeCount": "0",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -187,7 +187,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/1HylhzLZTXX7vHPLv9noK1e08cE\"",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/bkIEt5wBZUbaR-QVgDMMMjzN-Cg\"",
         "id": "Znly_nfEXSM",
         "snippet": {
             "publishedAt": "2017-05-12T21:33:10.000Z",
@@ -232,7 +232,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "948",
+            "viewCount": "950",
             "likeCount": "20",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -249,7 +249,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/TMMWy5oACkD3ROl4qBtWY14pLNg\"",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/gYyp9Rdc7tLUKEPvKgmNhbHHl9w\"",
         "id": "kPXMZDPMpUs",
         "snippet": {
             "publishedAt": "2017-05-10T10:34:33.000Z",
@@ -294,7 +294,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1114",
+            "viewCount": "1116",
             "likeCount": "16",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -311,7 +311,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/0P5npMH1nQ4wb7T2eY-oF_kUvf8\"",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/6KZq50UUkvCRTagXqP7x1-9DRHQ\"",
         "id": "06Joh-jiTEE",
         "snippet": {
             "publishedAt": "2017-02-28T09:05:32.000Z",
@@ -356,7 +356,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1159",
+            "viewCount": "1161",
             "likeCount": "19",
             "dislikeCount": "0",
             "favoriteCount": "0",
