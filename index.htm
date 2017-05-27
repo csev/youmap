@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Dr. Chuck Office Hours</title>
+    <link href="http://google-developers.appspot.com/maps/documentation/javascript/examples/default.css" rel="stylesheet">
+
+    <!-- If you are in China, you may need to use theis site for the Google Maps code
+    <script src="http://maps.google.cn/maps/api/js" type="text/javascript"></script> -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ0IgXbFmVe8IHBB70JOzzbrfcIA9IGl8"
+  type="text/javascript"></script>
+    <script src="where.js"></script>
+    <script>
+
+      function initialize() {
+        var myLatlng = new google.maps.LatLng(37.39361,-122.099263)
+        var mapOptions = {
+          zoom: 3,
+          center: myLatlng,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+
+        i = 0;
+        var markers = [];
+        for ( pos in myData ) {
+            i = i + 1;
+            var row = myData[pos];
+		    window.console && console.log(row);
+            // if ( i < 3 ) { alert(row); }
+            var newLatlng = new google.maps.LatLng(row[0], row[1]);
+            var marker = new google.maps.Marker({
+                position: newLatlng,
+                map: map,
+                title: row[2],
+                url: row[3]
+            });
+            google.maps.event.addListener(marker, 'click', function() {
+                window.open('https://www.youtube.com/watch?v='+this.url);
+            });
+            markers.push(marker);
+        }
+      }
+    </script>
+  </head>
+  <body onload="initialize()">
+<div id="map_canvas" style="height: 100%; width: 100%"></div>
+<div style="position: absolute; top:10px; right: 10px; background: white; margin: 5px; padding: 5px;"><b>Dr. Chuck's Office Hours Around the World</b></div>
+</body>
+</html>
