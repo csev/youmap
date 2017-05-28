@@ -27,11 +27,9 @@
         }
         var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
 
-        i = 0;
         var markers = [];
-        for ( pos in myData ) {
-            i = i + 1;
-            var row = myData[pos];
+        for(i=myData.length-1;i>=0;i--) {
+            var row = myData[i];
              window.console && console.log(row);
             // if ( i < 3 ) { alert(row); }
             var newLatlng = new google.maps.LatLng(row[0], row[1]);
@@ -41,6 +39,17 @@
                 title: row[2],
                 url: row[3]
             });
+            if ( i == 0 ) {
+                marker.setIcon('https://maps.google.com/mapfiles/ms/icons/green-dot.png')
+            } else if ( i > 1 && i <= 10 ) {
+                marker.setIcon('https://maps.google.com/mapfiles/ms/icons/yellow-dot.png')
+            } else if ( i >= 11 && i <= 20 ) {
+                marker.setIcon('https://maps.google.com/mapfiles/ms/icons/purple-dot.png')
+            } else if ( i >= 21 && i <= 30 ) {
+                marker.setIcon('https://maps.google.com/mapfiles/ms/icons/blue-dot.png')
+            } else {
+                marker.setIcon('https://maps.google.com/mapfiles/ms/icons/red-dot.png')
+            }
             google.maps.event.addListener(marker, 'click', function() {
                 window.open('https://www.youtube.com/watch?v='+this.url);
             });
