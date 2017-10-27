@@ -1,13 +1,75 @@
 [
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/wXU87nZpJvkbQC7tjfYSVazSrAA\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/DKis6eC6Vj6P3guGsPI3eqPg1gM\"",
+        "id": "dQ1YZMU1DHg",
+        "snippet": {
+            "publishedAt": "2017-10-27T15:22:51.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours San Francisco 19-Oct-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nThis was at Joe and the Juice and on the day that the Web Applications for Everybody Specialization launched.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours San Francisco 19-Oct-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nThis was at Joe and the Juice and on the day that the Web Applications for Everybody Specialization launched."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "38",
+            "likeCount": "3",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 37.79177,
+                "longitude": -122.40275,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-10-19T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Bi-eEInavDYIh7f2IycpeCAtzec\"",
         "id": "O5ESxp-IPEs",
         "snippet": {
             "publishedAt": "2017-06-22T03:33:46.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Philadelphia 07-June-2017",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/O5ESxp-IPEs/default.jpg",
@@ -41,16 +103,16 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours Philadelphia 07-June-2017",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "15",
-            "likeCount": "2",
+            "viewCount": "172",
+            "likeCount": "3",
             "dislikeCount": "0",
             "favoriteCount": "0",
-            "commentCount": "0"
+            "commentCount": "1"
         },
         "recordingDetails": {
             "location": {
@@ -63,13 +125,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/I9MHqK0P2T1-7G9Zodnrwqhs33E\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Jeo8tFzbTJp442DO_5Q2ItZMkes\"",
         "id": "l3iDVYEJwyQ",
         "snippet": {
             "publishedAt": "2017-05-27T15:18:12.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Vancouver, BC Canada 25-May-2017",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/l3iDVYEJwyQ/default.jpg",
@@ -103,13 +165,13 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours Vancouver, BC Canada 25-May-2017",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "168",
-            "likeCount": "2",
+            "viewCount": "218",
+            "likeCount": "3",
             "dislikeCount": "1",
             "favoriteCount": "0",
             "commentCount": "2"
@@ -125,13 +187,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/6FecixJlS11oBeT9VMjDwkxXf-4\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/O-y7zOaP67Zm3mKcu4WJyxg2PBU\"",
         "id": "7ScIlzEcKMg",
         "snippet": {
             "publishedAt": "2017-05-24T22:25:04.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Seattle,WA 23-May-2017",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/7ScIlzEcKMg/default.jpg",
@@ -165,12 +227,12 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours Seattle,WA 23-May-2017",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "143",
+            "viewCount": "186",
             "likeCount": "3",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -187,13 +249,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/shsk7d4nFspOtZ_M9NPCK0WU99g\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/V0TMrRxW5DwaO0JsNs9o6wgNMsQ\"",
         "id": "Lw_cQGrKzxo",
         "snippet": {
             "publishedAt": "2017-05-21T03:57:41.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Denver, CO 18-May-2017",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/Lw_cQGrKzxo/default.jpg",
@@ -227,12 +289,12 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours Denver, CO 18-May-2017",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "839",
+            "viewCount": "879",
             "likeCount": "14",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -249,13 +311,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/P2zTijELNe5hKua8wc782q9lPeM\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/VrDzjx91Yjkraz6HaXyMycW8V0U\"",
         "id": "Znly_nfEXSM",
         "snippet": {
             "publishedAt": "2017-05-12T21:33:10.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Capetown South Africa 11-May-2017",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/Znly_nfEXSM/default.jpg",
@@ -289,12 +351,12 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours Capetown South Africa 11-May-2017",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "993",
+            "viewCount": "1045",
             "likeCount": "20",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -311,13 +373,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Vko6mRJdEZ9baXY8fTiQnKutZjs\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/mXS8aO4Yddlg4OHMzxsoS1JJXWU\"",
         "id": "kPXMZDPMpUs",
         "snippet": {
             "publishedAt": "2017-05-10T10:34:33.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours London Shoreditch 21-April-2017",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/kPXMZDPMpUs/default.jpg",
@@ -351,16 +413,16 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours London Shoreditch 21-April-2017",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1141",
+            "viewCount": "1179",
             "likeCount": "16",
             "dislikeCount": "1",
             "favoriteCount": "0",
-            "commentCount": "4"
+            "commentCount": "5"
         },
         "recordingDetails": {
             "location": {
@@ -373,13 +435,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/uOELcaY03LufpSiGk-jpQDp96uM\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/8G_0Fdl7SKBqiJDwOqA9C8TGpXU\"",
         "id": "06Joh-jiTEE",
         "snippet": {
             "publishedAt": "2017-02-28T09:05:32.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Class Reunion - Bletchley Park, UK 26-February-2017",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.  We had an afternoon presentation from Joel Greenberg - the author of the Gordon Welshman biography.  Stephen Catto (Course mentor) also attended for the second time from Edinburgh.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.  We had an afternoon presentation from Joel Greenberg - the author of the Gordon Welshman biography.  Stephen Catto (Course mentor) also attended for the second time from Edinburgh.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/06Joh-jiTEE/default.jpg",
@@ -413,12 +475,12 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Class Reunion - Bletchley Park, UK 26-February-2017",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.  We had an afternoon presentation from Joel Greenberg - the author of the Gordon Welshman biography.  Stephen Catto (Course mentor) also attended for the second time from Edinburgh.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.  We had an afternoon presentation from Joel Greenberg - the author of the Gordon Welshman biography.  Stephen Catto (Course mentor) also attended for the second time from Edinburgh.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1188",
+            "viewCount": "1225",
             "likeCount": "20",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -435,13 +497,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/6VsM_ug2lfDha6XRxKBe7BtwDJc\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/4fQ-ndkc8JbA2zdoBLx08aTeUXE\"",
         "id": "bJhblPvjzYg",
         "snippet": {
             "publishedAt": "2017-02-03T15:27:53.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Orlando Florida 21-January-2017",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/bJhblPvjzYg/default.jpg",
@@ -475,12 +537,12 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours Orlando Florida 21-January-2017",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "180",
+            "viewCount": "186",
             "likeCount": "3",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -497,13 +559,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/XRFhvxawsKl4265eL4J5TLAXdVU\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/vrdPfrQdHU2g3vbWGW-a7b67YEw\"",
         "id": "2f9YNAIpjjQ",
         "snippet": {
             "publishedAt": "2016-09-23T16:29:15.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Seoul Korea 22-September-2016",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/2f9YNAIpjjQ/default.jpg",
@@ -537,12 +599,12 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours Seoul Korea 22-September-2016",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1951",
+            "viewCount": "1978",
             "likeCount": "33",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -559,13 +621,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/KDCgLFoUuAeef782U23Rubce_TA\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/eQC91zr9_PiUYo3KcQVwZOyO99U\"",
         "id": "NjXw_sBnIGQ",
         "snippet": {
             "publishedAt": "2016-08-19T12:12:03.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Orem, UT 18-August-2016",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/NjXw_sBnIGQ/default.jpg",
@@ -598,12 +660,12 @@
             "liveBroadcastContent": "none",
             "localized": {
                 "title": "Coursera Office Hours Orem, UT 18-August-2016",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1293",
+            "viewCount": "1311",
             "likeCount": "24",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -620,7 +682,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/UF2WD1_JYMtZtc5zHLuXqV82pS0\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/6IAPSQoD1q1GU4WX_VM9G0Qhbbg\"",
         "id": "T5N7yxKFn9g",
         "snippet": {
             "publishedAt": "2016-06-08T13:52:25.000Z",
@@ -668,8 +730,8 @@
             }
         },
         "statistics": {
-            "viewCount": "1143",
-            "likeCount": "28",
+            "viewCount": "1221",
+            "likeCount": "29",
             "dislikeCount": "0",
             "favoriteCount": "0",
             "commentCount": "9"
@@ -677,13 +739,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/g5v6ollwBEFWJBky6ry238jSZ_0\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/BYNSfY9jwoNhY0rrnLaDswVaqfg\"",
         "id": "7g8hMPcZNOY",
         "snippet": {
             "publishedAt": "2016-07-11T03:27:33.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Seattle, WA 30-June-2016",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://pikebrewing.com/",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://pikebrewing.com/",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/7g8hMPcZNOY/default.jpg",
@@ -717,12 +779,12 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours Seattle, WA 30-June-2016",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://pikebrewing.com/"
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://pikebrewing.com/"
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "340",
+            "viewCount": "364",
             "likeCount": "6",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -739,13 +801,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/zXR22weKRgO76TeRfB8uLn4gqv4\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/PABSyUuvlEioKpgMVRAZO_OHBzA\"",
         "id": "lqlbDxdZWZQ",
         "snippet": {
             "publishedAt": "2016-07-11T03:31:10.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Portland, OR 29-June-2016",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://10barrel.com/#portland",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://10barrel.com/#portland",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/lqlbDxdZWZQ/default.jpg",
@@ -779,12 +841,12 @@
             "defaultLanguage": "en",
             "localized": {
                 "title": "Coursera Office Hours Portland, OR 29-June-2016",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.pr4e.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://10barrel.com/#portland"
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://10barrel.com/#portland"
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "429",
+            "viewCount": "447",
             "likeCount": "6",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -801,13 +863,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/jSj79X9YtqqeOURekLqSHhm0pXs\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/i-Y-7bs6FD2_ha_qB6hNgcFCPf4\"",
         "id": "1SQ4eAeVV4Y",
         "snippet": {
             "publishedAt": "2016-05-27T14:54:17.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours New York, NY 25-May-2016",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/1SQ4eAeVV4Y/default.jpg",
@@ -840,12 +902,12 @@
             "liveBroadcastContent": "none",
             "localized": {
                 "title": "Coursera Office Hours New York, NY 25-May-2016",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "357",
+            "viewCount": "448",
             "likeCount": "6",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -862,13 +924,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/GKc3S2lGSyVa2ydk6EaQJQaZ3h8\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/NXqxeytoJi4GL7aX-s7sQy3kK3k\"",
         "id": "edU1-4MtEbg",
         "snippet": {
             "publishedAt": "2016-04-26T00:37:00.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours  Houston, Texas 23-Apr-2016",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/edU1-4MtEbg/default.jpg",
@@ -906,12 +968,12 @@
             "liveBroadcastContent": "none",
             "localized": {
                 "title": "Coursera Office Hours  Houston, Texas 23-Apr-2016",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "588",
+            "viewCount": "610",
             "likeCount": "12",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -928,13 +990,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/n4iO52mPBxAg-HN3l6i0jRd3va4\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/xZGDrMM9upZcjmakaJwq4JQwt8M\"",
         "id": "V0_IEvDvaYY",
         "snippet": {
             "publishedAt": "2016-03-21T06:29:19.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours The Hague, NL 20-Mar-2016",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/V0_IEvDvaYY/default.jpg",
@@ -967,12 +1029,12 @@
             "liveBroadcastContent": "none",
             "localized": {
                 "title": "Coursera Office Hours The Hague, NL 20-Mar-2016",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.py4e.com/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1970",
+            "viewCount": "2001",
             "likeCount": "34",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -989,13 +1051,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/rP8jAtNJzYrmZQTSfX3k5B23cX8\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XH9ntc7Ouk-dnwaeGw3hUPxN_78\"",
         "id": "IDQHClsP2HA",
         "snippet": {
             "publishedAt": "2016-01-27T12:53:11.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Orlando Florida 26-Jan-2015",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/IDQHClsP2HA/default.jpg",
@@ -1023,12 +1085,12 @@
             "liveBroadcastContent": "none",
             "localized": {
                 "title": "Coursera Office Hours Orlando Florida 26-Jan-2015",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1330",
+            "viewCount": "1338",
             "likeCount": "11",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1045,13 +1107,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/NI32blr3bTVEQ44lb3FRxif-jHc\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/SFaC5cgVyy71d51M9NlGgtkt1q0\"",
         "id": "kBeBQ3gAJ00",
         "snippet": {
             "publishedAt": "2015-12-17T00:07:37.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Coursera Office Hours Barcelona Spain 17-Dec-2015",
-            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/kBeBQ3gAJ00/default.jpg",
@@ -1084,12 +1146,12 @@
             "liveBroadcastContent": "none",
             "localized": {
                 "title": "Coursera Office Hours Barcelona Spain 17-Dec-2015",
-                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "643",
+            "viewCount": "647",
             "likeCount": "6",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1106,13 +1168,13 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/5Sf1aCjzLfu0rjucMJXOjy1BOZA\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/NiN4-h-kCu5UXCtN68ux3zq3ljQ\"",
         "id": "9O0NLuLbD9Q",
         "snippet": {
             "publishedAt": "2015-11-01T19:03:56.000Z",
             "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
             "title": "Office Hours / Class Reunion Bletchley Park - 31-Sept-2015",
-            "description": "This is a video of the office hours October 31, 2015 at Bletchley Park in the UK.  So many students attended, it was more like a class reunion than a mere office hours.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/",
+            "description": "This is a video of the office hours October 31, 2015 at Bletchley Park in the UK.  So many students attended, it was more like a class reunion than a mere office hours.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn",
             "thumbnails": {
                 "default": {
                     "url": "https://i.ytimg.com/vi/9O0NLuLbD9Q/default.jpg",
@@ -1145,12 +1207,12 @@
             "liveBroadcastContent": "none",
             "localized": {
                 "title": "Office Hours / Class Reunion Bletchley Park - 31-Sept-2015",
-                "description": "This is a video of the office hours October 31, 2015 at Bletchley Park in the UK.  So many students attended, it was more like a class reunion than a mere office hours.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/"
+                "description": "This is a video of the office hours October 31, 2015 at Bletchley Park in the UK.  So many students attended, it was more like a class reunion than a mere office hours.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn"
             },
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "2903",
+            "viewCount": "2928",
             "likeCount": "42",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1167,7 +1229,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/zuokBBamIW59dSKgAoF0AL7pdyk\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/7zrcpe6EAZmnlPKHkcpegWddvnY\"",
         "id": "wXrDopq8pVw",
         "snippet": {
             "publishedAt": "2015-06-29T12:10:03.000Z",
@@ -1211,7 +1273,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1442",
+            "viewCount": "1445",
             "likeCount": "19",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1228,7 +1290,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/F3cX74P3YpssifRngcV7iM9QAM0\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/vAE5n3Td_wohUA4puHSA84ZGXzI\"",
         "id": "Bq0XOOYwUpU",
         "snippet": {
             "publishedAt": "2015-06-17T19:04:15.000Z",
@@ -1272,8 +1334,8 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1256",
-            "likeCount": "15",
+            "viewCount": "1310",
+            "likeCount": "16",
             "dislikeCount": "0",
             "favoriteCount": "0",
             "commentCount": "0"
@@ -1289,7 +1351,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/DkF1H25afUrQR5Xb0ENUUZOFmZg\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/i8zykRWdWPeoCIanbs6DzyhJzhs\"",
         "id": "r6Wge5WQ0g4",
         "snippet": {
             "publishedAt": "2015-06-15T15:48:59.000Z",
@@ -1333,7 +1395,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1360",
+            "viewCount": "1411",
             "likeCount": "25",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1350,7 +1412,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/OtU07RXJcV3EZ4-Si_ljZtRo2O0\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/c_5wq7jSKthVyzTahHPvOEn-Jys\"",
         "id": "wnrXUXey_oQ",
         "snippet": {
             "publishedAt": "2015-06-04T21:09:07.000Z",
@@ -1394,7 +1456,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1786",
+            "viewCount": "1834",
             "likeCount": "11",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1411,7 +1473,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/vyiW1Xo8-ywijD8KmNZJVuHqCGY\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/epn1RDyjkoC1AiCwUC4iKSzfC0I\"",
         "id": "Vsf3YyB7Jnc",
         "snippet": {
             "publishedAt": "2015-05-10T13:45:38.000Z",
@@ -1455,7 +1517,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "2469",
+            "viewCount": "2525",
             "likeCount": "16",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -1472,7 +1534,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/4h3M82O8hLLRKW10A95qIWKb3fY\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/rRv5mVjnYpi2lMl1Wugs4vIKtuA\"",
         "id": "CyOnRyH5uxE",
         "snippet": {
             "publishedAt": "2015-05-08T12:59:36.000Z",
@@ -1511,8 +1573,8 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1020",
-            "likeCount": "3",
+            "viewCount": "1055",
+            "likeCount": "4",
             "dislikeCount": "1",
             "favoriteCount": "0",
             "commentCount": "0"
@@ -1528,7 +1590,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/yC-t6owkrcd3FIAaaehH6ef76b8\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qVtiTFCXG1BWOQryncPixJtdzDk\"",
         "id": "qJHcFOIjGuI",
         "snippet": {
             "publishedAt": "2015-04-29T04:16:35.000Z",
@@ -1572,7 +1634,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1669",
+            "viewCount": "1670",
             "likeCount": "16",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1589,7 +1651,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/DIaZTOoBHKjM2ZRUrJeLaAxbjXk\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Nt8COIGpTSNUgx9fUFzpGNtNWvI\"",
         "id": "11jTwRfHMPI",
         "snippet": {
             "publishedAt": "2015-04-16T19:00:34.000Z",
@@ -1633,7 +1695,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "2085",
+            "viewCount": "2095",
             "likeCount": "15",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1650,7 +1712,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/8wksY93qIM99qFU7RrzRXDtEdTA\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Hsl-pUsts61KR8cpVPlQKK7VwB8\"",
         "id": "EyArXpJMtPA",
         "snippet": {
             "publishedAt": "2015-04-11T18:52:38.000Z",
@@ -1694,7 +1756,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "4597",
+            "viewCount": "4603",
             "likeCount": "61",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1711,7 +1773,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/LLwz4xbZQwd4YoZqKQmDHijiA9U\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/7vp15XUPKqKC8otFx0nSx-dhLzI\"",
         "id": "4hIwl_8hmq8",
         "snippet": {
             "publishedAt": "2016-03-13T19:00:17.000Z",
@@ -1755,7 +1817,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "140",
+            "viewCount": "157",
             "likeCount": "8",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1772,7 +1834,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/VPrkwPsNq3ay2ma3gQLquxWnb38\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/5geluYdfONJw1FxZe8PiBDm3rhM\"",
         "id": "rc6QtMN6vbM",
         "snippet": {
             "publishedAt": "2015-03-30T13:45:28.000Z",
@@ -1816,7 +1878,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1483",
+            "viewCount": "1510",
             "likeCount": "7",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1833,7 +1895,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/DNwaZN6xQYIDpNpRkg2QeBOLuoY\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XoUL3OHj9yUNi8SQTYHyvEgjkZc\"",
         "id": "-qRY5sFvR0w",
         "snippet": {
             "publishedAt": "2015-03-30T13:45:52.000Z",
@@ -1877,7 +1939,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1890",
+            "viewCount": "1931",
             "likeCount": "11",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1894,7 +1956,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/6khrnhy_2WhDEbYgAOSSMVjeoAo\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/yobehPj8jS8FaoPSq9JfcrlTDTo\"",
         "id": "FzjKicH7IhI",
         "snippet": {
             "publishedAt": "2015-02-05T14:21:12.000Z",
@@ -1938,7 +2000,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1371",
+            "viewCount": "1411",
             "likeCount": "3",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -1955,7 +2017,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/-ieUJWNEzki17XL7881vnklX5FI\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/CZWEsTEywfvVwnp92ImHF-NeZVU\"",
         "id": "lx_jwYZrtMY",
         "snippet": {
             "publishedAt": "2014-11-26T16:38:05.000Z",
@@ -1999,7 +2061,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1401",
+            "viewCount": "1440",
             "likeCount": "3",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2016,7 +2078,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/QGpAaT6BM77zzIVIw4tZLYZmSlQ\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/rCrJ05uU7vhZLdvBMVRPVZCHGRI\"",
         "id": "03UXDR8-tSk",
         "snippet": {
             "publishedAt": "2014-11-21T03:04:10.000Z",
@@ -2055,7 +2117,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "882",
+            "viewCount": "883",
             "likeCount": "0",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2072,7 +2134,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/cK33kLN_H62qVY3K5tJDKWssNO4\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/KrqOwKnXu7pcmj42_-avek1XbGE\"",
         "id": "7UV9GWofRAk",
         "snippet": {
             "publishedAt": "2014-08-13T05:22:31.000Z",
@@ -2115,7 +2177,7 @@
             }
         },
         "statistics": {
-            "viewCount": "4734",
+            "viewCount": "4865",
             "likeCount": "48",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2132,7 +2194,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/gVGvXvUwXSSFXL3TIK6UqrJpCfA\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/gJmDhnPvp5WxkqvYLiux87x1RAc\"",
         "id": "kF4T1Fm71_E",
         "snippet": {
             "publishedAt": "2014-07-09T12:41:57.000Z",
@@ -2165,7 +2227,7 @@
             }
         },
         "statistics": {
-            "viewCount": "1876",
+            "viewCount": "1891",
             "likeCount": "10",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2182,7 +2244,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/lqIA2Ref0srACbMviAsUXP7qetM\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/FcpPm0fzHUnIg_J54bnVAlNrcHM\"",
         "id": "pukbPvD4Uo4",
         "snippet": {
             "publishedAt": "2014-07-02T23:10:22.000Z",
@@ -2238,7 +2300,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Dz3aAsSysIGlsU_ccIft0VaDp4A\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/_V38A3bj3AQsFoZFwZHl4X_D1Vc\"",
         "id": "61brxtZGzqg",
         "snippet": {
             "publishedAt": "2014-06-05T05:08:58.000Z",
@@ -2276,7 +2338,7 @@
             }
         },
         "statistics": {
-            "viewCount": "1497",
+            "viewCount": "1507",
             "likeCount": "11",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2293,7 +2355,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/X9O0gDJguuqCrEwYhBWprjSYDrM\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/2RsnxfVRFQznD1Ns0RjIItvgE3g\"",
         "id": "T-T9RT0ardw",
         "snippet": {
             "publishedAt": "2014-05-31T03:53:37.000Z",
@@ -2337,7 +2399,7 @@
             }
         },
         "statistics": {
-            "viewCount": "1788",
+            "viewCount": "1799",
             "likeCount": "19",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -2354,7 +2416,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/lmYTzGoCBatG-4uvFIL5KN8MdlA\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/praqihTR--Ra71CtHL6w6mDh8DI\"",
         "id": "02QDFT343xk",
         "snippet": {
             "publishedAt": "2014-05-28T02:39:25.000Z",
@@ -2397,9 +2459,9 @@
             }
         },
         "statistics": {
-            "viewCount": "2806",
+            "viewCount": "2892",
             "likeCount": "50",
-            "dislikeCount": "1",
+            "dislikeCount": "2",
             "favoriteCount": "0",
             "commentCount": "25"
         },
@@ -2414,7 +2476,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/vzx41gxNfx129Jdy3Jg18bz4tDQ\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/QWHesa0XwadIWrV6qDKX4eAkX9Y\"",
         "id": "6JveYlIj06g",
         "snippet": {
             "publishedAt": "2014-02-13T04:59:01.000Z",
@@ -2457,8 +2519,8 @@
             }
         },
         "statistics": {
-            "viewCount": "3366",
-            "likeCount": "4",
+            "viewCount": "3379",
+            "likeCount": "5",
             "dislikeCount": "1",
             "favoriteCount": "0",
             "commentCount": "3"
@@ -2474,7 +2536,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/qdfCklpn-eH-FvasNoGKmGLtVd0\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/-dX1IX2NXlhw_N27sVMkGiPYji0\"",
         "id": "_8-wTzMwlvY",
         "snippet": {
             "publishedAt": "2014-02-13T04:59:23.000Z",
@@ -2512,7 +2574,7 @@
             }
         },
         "statistics": {
-            "viewCount": "1041",
+            "viewCount": "1049",
             "likeCount": "0",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2529,7 +2591,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/QjzYyM5IcHCdleLZEEsrdKleSpg\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qBE7iiLWufOGLRIDZvxFp6HDUDE\"",
         "id": "3B9x83OZOYA",
         "snippet": {
             "publishedAt": "2014-01-14T03:07:25.000Z",
@@ -2572,7 +2634,7 @@
             }
         },
         "statistics": {
-            "viewCount": "1075",
+            "viewCount": "1094",
             "likeCount": "6",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2589,7 +2651,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/4AIAKPXqlrE_90khtezeoT1ddgg\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/73bvokPr2HebWcv0Ov5ruIOWQnE\"",
         "id": "dDHxUQzbVrE",
         "snippet": {
             "publishedAt": "2013-12-12T22:54:09.000Z",
@@ -2628,7 +2690,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1028",
+            "viewCount": "1060",
             "likeCount": "2",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2645,7 +2707,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/yy9Rjb5fRihEBxXTD1Oprdj3iRU\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/5UXLM5VotyYFcJYJZRlwrz3RbJU\"",
         "id": "zrZM7Y3WtS8",
         "snippet": {
             "publishedAt": "2013-12-12T22:27:10.000Z",
@@ -2689,7 +2751,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "461",
+            "viewCount": "488",
             "likeCount": "2",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2706,7 +2768,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/7qP9EVMq34OyEzrN3N1ovatuZ5E\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/e1lmgiS-XF4lvAk-R2dPzu7lfeM\"",
         "id": "hHmVM3nn-ec",
         "snippet": {
             "publishedAt": "2013-07-19T05:16:16.000Z",
@@ -2749,7 +2811,7 @@
             }
         },
         "statistics": {
-            "viewCount": "1073",
+            "viewCount": "1076",
             "likeCount": "13",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2766,7 +2828,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/57wOwLBJ1COKsFAWYIBa7kbbfQc\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/28mfh9MQ8n1MqmoGHNypoZsOGlw\"",
         "id": "J-vbiY5HAX4",
         "snippet": {
             "publishedAt": "2013-07-15T05:40:58.000Z",
@@ -2809,7 +2871,7 @@
             }
         },
         "statistics": {
-            "viewCount": "1476",
+            "viewCount": "1481",
             "likeCount": "4",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -2826,7 +2888,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/zVUv_w0g5hNnSQj5oB7S0S_97eI\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qK16B39h6RhgDmjQ5EDbFvXMYGo\"",
         "id": "BsSKYzVLO6w",
         "snippet": {
             "publishedAt": "2013-07-14T17:14:27.000Z",
@@ -2879,8 +2941,8 @@
             }
         },
         "statistics": {
-            "viewCount": "2110",
-            "likeCount": "23",
+            "viewCount": "2143",
+            "likeCount": "22",
             "dislikeCount": "0",
             "favoriteCount": "0",
             "commentCount": "7"
@@ -2896,7 +2958,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/LoTROY5Ukv_D2nS1Pr3Q49NXxgo\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/U-Tc1YVaf-SWSVSK6Owuxz3z_SQ\"",
         "id": "U13_4Y2yJU4",
         "snippet": {
             "publishedAt": "2013-07-13T05:34:46.000Z",
@@ -2939,7 +3001,7 @@
             }
         },
         "statistics": {
-            "viewCount": "352",
+            "viewCount": "356",
             "likeCount": "2",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -2956,7 +3018,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/IjlhUBptExjKP7ZhZEpvEegQJgQ\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XGxeGhq4pJ-E9YcC6FIbT_fyhrA\"",
         "id": "7Wz9MGDJH4s",
         "snippet": {
             "publishedAt": "2013-06-27T13:43:51.000Z",
@@ -2999,7 +3061,7 @@
             }
         },
         "statistics": {
-            "viewCount": "310",
+            "viewCount": "320",
             "likeCount": "1",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -3016,7 +3078,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/xk5RaLpdyio13LKaei7y9W1x3QA\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Gv6oYE_aZ3oGpqoscWcdYHxQgKg\"",
         "id": "GD9RSoVDKkw",
         "snippet": {
             "publishedAt": "2013-06-25T08:24:53.000Z",
@@ -3059,7 +3121,7 @@
             }
         },
         "statistics": {
-            "viewCount": "528",
+            "viewCount": "543",
             "likeCount": "3",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -3076,7 +3138,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/vfA-P3MmFyQZ9x6NHUNHzAyTNa8\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/a2nc7pBIhL0O6W7rD_ujxH4quCI\"",
         "id": "rKI5zE0ZVu4",
         "snippet": {
             "publishedAt": "2013-05-16T05:57:59.000Z",
@@ -3119,7 +3181,7 @@
             }
         },
         "statistics": {
-            "viewCount": "273",
+            "viewCount": "284",
             "likeCount": "3",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -3136,7 +3198,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/iQ7VF9Q0xmVDjWRlyLqYxt2cGJ8\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/TZc2h81mkgYeHoetrmf6MJdG4YI\"",
         "id": "6MvtO3hkJ34",
         "snippet": {
             "publishedAt": "2013-05-16T05:46:21.000Z",
@@ -3179,7 +3241,7 @@
             }
         },
         "statistics": {
-            "viewCount": "205",
+            "viewCount": "220",
             "likeCount": "0",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -3196,7 +3258,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/QRh-IcOKWKye97kd9CZ_tH92JtE\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/GvFSfcuZGpYf5eQNxYS7VsSB7F4\"",
         "id": "j7fhF-GQi1E",
         "snippet": {
             "publishedAt": "2013-04-28T13:11:31.000Z",
@@ -3239,7 +3301,7 @@
             }
         },
         "statistics": {
-            "viewCount": "459",
+            "viewCount": "471",
             "likeCount": "2",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -3256,7 +3318,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/h3McCu13rrvK5O_Gc2lpzKMugZk\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/4UsjH6ZNQelZIyKsFRQE4sZXfSM\"",
         "id": "O7jookwwf20",
         "snippet": {
             "publishedAt": "2013-04-26T03:30:20.000Z",
@@ -3299,7 +3361,7 @@
             }
         },
         "statistics": {
-            "viewCount": "1133",
+            "viewCount": "1149",
             "likeCount": "9",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -3316,7 +3378,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/gXutcMmYWyxMwPLCYEMtbCDEIg4\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/fDnueWm5wUDCgBzK65j67u_FHE8\"",
         "id": "HXw98e41I7I",
         "snippet": {
             "publishedAt": "2014-02-02T15:53:04.000Z",
@@ -3360,7 +3422,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "276",
+            "viewCount": "304",
             "likeCount": "1",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -3377,7 +3439,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/yqX3AQs54LCP8mhIbEyRbzGOla8\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XNz-kea7zVjQJerXJCRLQ0h9B7o\"",
         "id": "nlaZK1FhxBA",
         "snippet": {
             "publishedAt": "2013-03-06T21:33:42.000Z",
@@ -3410,7 +3472,7 @@
             }
         },
         "statistics": {
-            "viewCount": "2234",
+            "viewCount": "2250",
             "likeCount": "12",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -3427,7 +3489,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/3zyMpfGf32Z2lWQB_QFvHPucEck\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/zXa8gSlORnaoCrM2ceoDxOMJUFc\"",
         "id": "R6zlQZcM72o",
         "snippet": {
             "publishedAt": "2012-11-26T09:53:55.000Z",
@@ -3466,7 +3528,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1360",
+            "viewCount": "1387",
             "likeCount": "19",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -3483,7 +3545,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/BKrs0P9i-28JDPCxRHZt9P-IjjE\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/QqXG-OlAK9yVVK5ydN27abti7j8\"",
         "id": "lWxUFvYmeq0",
         "snippet": {
             "publishedAt": "2012-11-13T09:40:17.000Z",
@@ -3527,7 +3589,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "3416",
+            "viewCount": "3483",
             "likeCount": "24",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -3544,7 +3606,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/03wic_tCC_-zXqQzHy0bZF5xq_M\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/N_K4kGa1sO5rqc2x0Lcbds_xAX0\"",
         "id": "JzNHvmSv8TI",
         "snippet": {
             "publishedAt": "2012-10-27T14:58:18.000Z",
@@ -3583,7 +3645,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "2209",
+            "viewCount": "2253",
             "likeCount": "24",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -3600,7 +3662,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/vLqk_AjjvaYeBXG83N4Sh-edg2E\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/VqDTCVnp0O405zu5gRpNceVHRyg\"",
         "id": "nHaPvqU4MrM",
         "snippet": {
             "publishedAt": "2012-10-22T12:25:45.000Z",
@@ -3644,7 +3706,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1942",
+            "viewCount": "1957",
             "likeCount": "38",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -3661,7 +3723,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/eJVh_Aw3FAQk5gpSVXI8xHPHupw\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/SOz4yT9mpbp8UTO4iZOcLLel9SY\"",
         "id": "kinaN5n1tOw",
         "snippet": {
             "publishedAt": "2012-08-29T13:43:19.000Z",
@@ -3714,7 +3776,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "848",
+            "viewCount": "851",
             "likeCount": "8",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -3731,7 +3793,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/hhF5DQDME0tM-4EFBg5YAVGWNMI\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/vIheAInF4cBoUW5Wt6gTLOtJz9E\"",
         "id": "T6ZljoZOnwI",
         "snippet": {
             "publishedAt": "2012-08-15T16:33:38.000Z",
@@ -3784,7 +3846,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "332",
+            "viewCount": "376",
             "likeCount": "5",
             "dislikeCount": "0",
             "favoriteCount": "0",
@@ -3801,7 +3863,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/UJxXyDHX4SNLQ0pOPkQendDH5I8\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/BfREYcLI1iutP1oQy823lviDiDc\"",
         "id": "I9rPidDyfVE",
         "snippet": {
             "publishedAt": "2012-08-10T04:40:40.000Z",
@@ -3855,8 +3917,8 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "834",
-            "likeCount": "3",
+            "viewCount": "888",
+            "likeCount": "4",
             "dislikeCount": "0",
             "favoriteCount": "0",
             "commentCount": "1"
@@ -3872,7 +3934,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/UGWWAiTv3dCN3pLZ7Pl9gG3Feok\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/-PuEJhPdFZFAQTdkuASsx2LEf_g\"",
         "id": "v5rlMJHBC2k",
         "snippet": {
             "publishedAt": "2012-08-01T21:06:22.000Z",
@@ -3918,7 +3980,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "954",
+            "viewCount": "961",
             "likeCount": "7",
             "dislikeCount": "1",
             "favoriteCount": "0",
@@ -3935,7 +3997,7 @@
     },
     {
         "kind": "youtube#video",
-        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/pF0cfdX4-FaC7opqHDThUcwGoF4\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/7itmjr7RfPGfOTpxonZewpqU9J8\"",
         "id": "ar1J5TL2OrU",
         "snippet": {
             "publishedAt": "2012-07-27T00:53:59.000Z",
@@ -3982,7 +4044,7 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "1334",
+            "viewCount": "1344",
             "likeCount": "10",
             "dislikeCount": "0",
             "favoriteCount": "0",
