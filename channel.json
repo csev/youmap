@@ -1,7 +1,59 @@
 [
     {
         "kind": "youtube#video",
-        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/DKis6eC6Vj6P3guGsPI3eqPg1gM\"",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/rYTIHd-3EwCZ7V-1cfy-46qcyyc\"",
+        "id": "CWGWn0vPTMQ",
+        "snippet": {
+            "publishedAt": "2017-10-27T18:30:42.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Raleigh, North Carolina 24-Oct-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS),  Programming for Everybody (PR4E), and Web Applications for Everybody (WA4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CWGWn0vPTMQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CWGWn0vPTMQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CWGWn0vPTMQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Raleigh, North Carolina 24-Oct-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS),  Programming for Everybody (PR4E), and Web Applications for Everybody (WA4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "0",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 35.77862,
+                "longitude": -78.64039,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-10-24T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qC6eD9smN0Mg8Dkp02f1Y5ydIcQ\"",
         "id": "dQ1YZMU1DHg",
         "snippet": {
             "publishedAt": "2017-10-27T15:22:51.000Z",
@@ -46,8 +98,8 @@
             "defaultAudioLanguage": "en"
         },
         "statistics": {
-            "viewCount": "38",
-            "likeCount": "3",
+            "viewCount": "53",
+            "likeCount": "4",
             "dislikeCount": "0",
             "favoriteCount": "0",
             "commentCount": "1"

@@ -1,4 +1,5 @@
 myData = [
+[35.77862,-78.64039, 'Coursera Office Hours Raleigh, North Carolina 24-Oct-2017','CWGWn0vPTMQ'],
 [37.79177,-122.40275, 'Coursera Office Hours San Francisco 19-Oct-2017','dQ1YZMU1DHg'],
 [39.94849,-75.14372, 'Coursera Office Hours Philadelphia 07-June-2017','O5ESxp-IPEs'],
 [49.28313,-123.11214, 'Coursera Office Hours Vancouver, BC Canada 25-May-2017','l3iDVYEJwyQ'],
