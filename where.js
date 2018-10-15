@@ -1,4 +1,8 @@
 myData = [
+[42.47585, -83.24469, 'Coursera Office Hours Detroit 6-May-2018', 'oonbqMIhXms'],
+[33.4145055,-111.9367579, 'Coursera Office Hours Phoenix 7-Mar-2018', 'HtSea5HfNnY'],
+[35.6777775,139.7704905, 'Coursera Office Hours Tokyo 27-Feb-2018', 'CxAXTgKXEMw'],
+[29.9534342,-90.0675991, 'Coursera Office Hours New Orleans, LA 31-Jan-2018','68IflJ1KYdU'],
 [35.77862,-78.64039, 'Coursera Office Hours Raleigh, North Carolina 24-Oct-2017','CWGWn0vPTMQ'],
 [37.79177,-122.40275, 'Coursera Office Hours San Francisco 19-Oct-2017','dQ1YZMU1DHg'],
 [39.94849,-75.14372, 'Coursera Office Hours Philadelphia 07-June-2017','O5ESxp-IPEs'],
