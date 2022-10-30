@@ -1,4 +1,5 @@
 myData = [
+[42.406996,-86.141500, 'Office Hours Gingerman Raceway, South Haven, MI 21-Oct-2022', 'bG_fMQ7rsGo'],
 [39.472191,-0.378975, 'Office Hours - Valencia, Spain 29-Mar-2022','X-CqjEkrRc8'],
 [34.9876552,135.7580242, 'Office Hours - Kyoto, Japan 14-Aug-2019','cl_-OhsbEEg'],
 [43.4487038,-80.4874719, 'Office Hours - Kitchener, ON 14-Aug-2019','SWWDaOcgRlo'],
@@ -7,7 +8,7 @@ myData = [
 [19.1327278,72.9150673, 'Office Hours Mumbai, India 12-Dec-2018', 'GITuGFeG7J8'],
 [12.9918752,77.5861043, 'Office Hours Bengaluru, India 10-Dec-2018', 'E8hiItlGnBU'],
 [17.4732926,78.373110, 'Office Hours Hyderabad, India 05-Oct-2018', '4ba7vHT_muU'],
-[42.406696,-86.139936, 'Office Hours Gingerman Raceway, South Haven, MI 14-Oct-2018', 'F5gm1ohu8FE'],
+[42.409467,-86.141488, 'Office Hours Gingerman Raceway, South Haven, MI 14-Oct-2018', 'F5gm1ohu8FE'],
 [42.47585, -83.24469, 'Office Hours Detroit 6-May-2018', 'oonbqMIhXms'],
 [33.4145055,-111.9367579, 'Office Hours Phoenix 7-Mar-2018', 'HtSea5HfNnY'],
 [35.6777775,139.7704905, 'Office Hours Tokyo 27-Feb-2018', 'CxAXTgKXEMw'],
