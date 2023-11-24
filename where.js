@@ -1,4 +1,6 @@
 myData = [
+[42.348002,-83.058361, 'Office Hours Detroit, MI 05-August-2023', 'mUsmPj44GRI'],
+[44.7629332,-85.6169131, 'Office Hours Traverse City, MI 26-July-2023', 'u8w6LM2GUuo'],
 [42.406996,-86.141500, 'Office Hours Gingerman Raceway, South Haven, MI 21-Oct-2022', 'bG_fMQ7rsGo'],
 [39.472191,-0.378975, 'Office Hours - Valencia, Spain 29-Mar-2022','X-CqjEkrRc8'],
 [34.9876552,135.7580242, 'Office Hours - Kyoto, Japan 14-Aug-2019','cl_-OhsbEEg'],
